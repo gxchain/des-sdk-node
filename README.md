@@ -1,4 +1,4 @@
-### Usage
+# Usage
 
 ```js
 import DESMerchantClient from '../lib/client/DESMerchantClient'
@@ -22,6 +22,6 @@ client.createDataExchangeRequest(4, {
 
 ```
 
-### Dev Documents
+# Dev Documents
 
 https://doc.gxb.io/des/
