@@ -1,7 +1,13 @@
 {
   "name": "des-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "keywords": [
+    "gxs",
+    "des",
+    "sdk",
+    "data exchange"
+  ],
   "main": "./dist/index.js",
   "scripts": {
     "clean": "rm -rf ./dist/* & rm -rf ./build/* & rm -rf ./es/*",
