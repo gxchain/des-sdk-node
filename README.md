@@ -1,7 +1,13 @@
+# Install
+
+```bash
+npm install des-sdk --save
+```
+
 # Usage
 
 ```js
-import DESMerchantClient from '../lib/client/DESMerchantClient'
+import {DESMerchantClient} from 'des-sdk'
 
 let client = new DESMerchantClient('5Ka9YjFQtfUUX2Ddnqka...', '1.2.19');
 console.time('data-exchange');
