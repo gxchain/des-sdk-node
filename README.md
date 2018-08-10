@@ -6,6 +6,8 @@ npm install des-sdk --save
 
 # Usage
 
+## Merchant client
+
 ```js
 import {DESMerchantClient} from 'des-sdk'
 
@@ -28,7 +30,7 @@ client.createDataExchangeRequest(4, {
 
 ```
 
-## Blacklist api
+## Blacklist client
 
 ```
 import {DESBlackListGatewayClient} from "des-sdk";
