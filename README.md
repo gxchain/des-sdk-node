@@ -32,7 +32,7 @@ client.createDataExchangeRequest(4, {
 
 ## Blacklist client
 
-```
+```js
 import {DESBlackListGatewayClient} from "des-sdk";
 
 let client = new DESBlackListGatewayClient("5KHoUrUT...", "1.2.2316");
